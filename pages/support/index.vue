@@ -28,8 +28,6 @@
         <div>Email: profxke@gmail.com</div>
       </form>
       <br />
-
-      <Footer />
     </div>
   </template>
 
