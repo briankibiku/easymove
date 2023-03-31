@@ -9,21 +9,21 @@
                     <div class="container">
                         <div class="card">
                         <img
-                            src="../../assets/tb.jpeg"
+                            src="../../assets/estimate.png"
                             class="img-fluid"
                         />
                         <div class="card-body">
-                            <h5 class="card-title">Rubicon X Trading Bot</h5>
+                            <h5 class="card-title">Virtual Moving Estimation</h5>
                             <p class="card-text">
-                            Make $1 every day trading forex and binary options.
+                            Have a virtual call with one of our respresentatives and get an instant moving quote.
                             </p>
-                            <h5 class="card-title">Price: $600</h5>
+                            <h5 class="card-title">Price: FREE</h5>
                             <a
                             class="btn btn-primary"
-                            href="http://fikisha-app.herokuapp.com"
+                            href="#"
                             target="_blank"
                             >
-                            Buy Rubicon</a
+                            Know More</a
                             >
                         </div>
                         </div>
@@ -33,21 +33,21 @@
                 <div class="container">
                         <div class="card">
                         <img
-                            src="../../assets/tb.jpeg"
+                            src="../../assets/bulk_moving.jpeg"
                             class="img-fluid"
                         />
                         <div class="card-body">
-                            <h5 class="card-title">Rubicon ProFX Trading Bot</h5>
+                            <h5 class="card-title">Bulk Product Moving</h5>
                             <p class="card-text">
-                            Make $1.6 every day trading forex and binary options.
+                            Need more that one truck to move commodities and goods to any part of Kenya?
                             </p>
-                            <h5 class="card-title">Price: $850</h5>
+                            <h5 class="card-title">Price: starting from $850</h5>
                             <a
                             class="btn btn-primary"
-                            href="http://fikisha-app.herokuapp.com"
+                            href="#"
                             target="_blank"
                             >
-                            Buy Rubicon ProFX</a
+                            Know More</a
                             >
                         </div>
                         </div>
@@ -63,7 +63,7 @@
       <!-- <Footer /> -->
       <footer class="page-footer font-small blue pt-4">
         <div class="footer-copyright text-center py-3" style="color: grey">
-          © 2023 Copyright: ProFX
+          © 2023 Copyright: easymove
         </div>
       </footer>
       <Footer />

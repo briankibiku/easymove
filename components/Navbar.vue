@@ -1,13 +1,11 @@
 <template>
   <div>
-    <b-navbar toggleable="lg" style="background-color: #000;">
+    <b-navbar toggleable="lg" sticky  variant="light" type="light">
       <b-navbar-brand href="/">
         <img
           src="../assets/clear_logo.png"
           alt=""
-          width="110"
-          height="60"
-          class="d-inline-block align-text-top"
+          class="nav-img"
       /></b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse" style="background-color: #fff"></b-navbar-toggle>
@@ -39,6 +37,10 @@ a.nuxt-link-exact-active {
   color: orangeRed;
 }
 span {
-  color: #fff;
+  color: #000;
+}
+.nav-img {
+  height: 2em;
+  width: 10em;
 }
 </style>

@@ -25,7 +25,7 @@
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
         <br>
-        <div>Email: profxke@gmail.com</div>
+        <div>Email: easymoveke@gmail.com</div>
       </form>
       <br />
     </div>

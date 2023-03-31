@@ -2,10 +2,12 @@
   <b-container fluid>
     <b-row align-v="center" fluid="md" style="margin: 1em;">
       <b-col sm="6">
-          <b-img src="../assets/trade.gif" fluid alt="Responsive image"></b-img>
+          <b-img src="../assets/moving.png" fluid alt="Responsive image"></b-img>
       </b-col>
-      <b-col sm="6">
-          <h3 class="title animate__animated animate__backInRight">Welcome to Pro<span style="color: #FF0000;">Fx</span>, your <span style="color: #208600;">winning</span>  partner in <span style="color: #FF0000;">forex.</span></h3>
+      <b-col sm="6" class="animate__animated animate__backInRight">
+          <h3 class="title"><span style="color: #1C3583;">EasyMove,</span><span style="color: #E6007E;"> the moving experts!</span></h3>
+          <h4>Make your next move with us</h4>
+          <button class="btn">Get in touch</button>
       </b-col>
   </b-row>
 </b-container>
@@ -14,7 +16,7 @@
 <script>
 export default {
   head: {
-    title: "About",
+    title: "Home",
     link: [
       {
         rel: "stylesheet",
@@ -29,5 +31,9 @@ export default {
   color: #000;
   font-weight: bolder;
   font-size: 3em;
+}
+.btn {
+  background-color: #E6007E;
+  color: #fff;
 }
 </style>
