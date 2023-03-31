@@ -25,6 +25,7 @@
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
         <br>
+        <div>Phone: +254 724 609 783</div>
         <div>Email: easymoveke@gmail.com</div>
       </form>
       <br />

@@ -37,7 +37,7 @@ a.nuxt-link-exact-active {
   color: orangeRed;
 }
 span {
-  color: #000;
+  color: #E6007E;
 }
 .nav-img {
   height: 2em;
