@@ -66,7 +66,6 @@
           © 2023 Copyright: easymove
         </div>
       </footer>
-      <Footer />
     </div>
   </template>
   <script>

@@ -16,7 +16,7 @@
           <b-navbar-nav class="menu">
             <b-nav-item href="/"><span>Home</span></b-nav-item>
             <b-nav-item href="/products"><span>Products</span></b-nav-item>
-            <b-nav-item href="/support"><span>Support</span></b-nav-item>
+            <b-nav-item href="/move"><span>Move</span></b-nav-item>
           </b-navbar-nav>
         </b-navbar-nav>
       </b-collapse>

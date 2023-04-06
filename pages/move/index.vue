@@ -4,7 +4,7 @@
       <br />
       <form style="width: 400px; padding: 0px 20px 0px 20px" class="mx-auto">
         <br />
-        <h4>Need help?</h4>
+        <h4>Ready to move?</h4>
         <br />
         <div class="mb-3">
           <label for="exampleInputEmail1" class="form-label">Email address</label>
@@ -25,10 +25,17 @@
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
         <br>
+        <br>
         <div>Phone: +254 724 609 783</div>
         <div>Email: easymoveke@gmail.com</div>
       </form>
       <br />
+      <!-- <Footer /> -->
+      <footer class="page-footer font-small blue pt-4">
+        <div class="footer-copyright text-center py-3" style="color: grey">
+          © 2023 Copyright: easymove
+        </div>
+      </footer>
     </div>
   </template>
 
